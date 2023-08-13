@@ -7,6 +7,7 @@ I'm a passionate learner who's always eager to explore new technologies and crea
 
 🌱 I’m currently learning and experimenting with Machine Learning techniques to solve real-world challenges.
 👯 I’m open to collaborations on projects related to both Web Development and Machine Learning. Feel free to reach out if you have an exciting project in mind!
+
 Projects
 Here are some of the notable projects I've worked on:
 
