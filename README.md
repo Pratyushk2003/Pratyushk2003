@@ -1,14 +1,15 @@
 # Pratyush Khare 👋
 
-Hello there! 👋 I'm Pratyush Khare, a Computer Science Engineering undergraduate student at IIIT Nagpur. Welcome to my GitHub repository. Here, you'll find a collection of projects and work related to my interests in Machine Learning and Web Development.
+![image](https://github.com/Pratyushk2003/Pratyushk2003/assets/77561223/338bfbd0-1a15-450d-b4ee-fb1010f56f1f) Hello there! 👋 I'm Pratyush Khare, a Computer Science Engineering undergraduate student at IIIT Nagpur. Welcome to my GitHub repository. Here, you'll find a collection of projects and work related to my interests in Machine Learning and Web Development.
 
 # About Me
 I'm a passionate learner who's always eager to explore new technologies and create innovative solutions. Currently, I'm focused on enhancing my skills in the realm of Machine Learning while also delving into the world of Web Development.
 
 🌱 I’m currently learning and experimenting with Machine Learning techniques to solve real-world challenges.
+
 👯 I’m open to collaborations on projects related to both Web Development and Machine Learning. Feel free to reach out if you have an exciting project in mind!
 
-Projects
+#Projects
 
 Here are some of the notable projects I've worked on:
 
