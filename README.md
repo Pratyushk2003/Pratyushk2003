@@ -2,7 +2,7 @@
 
 Hello there! 👋 I'm Pratyush Khare, a Computer Science Engineering undergraduate student at IIIT Nagpur. Welcome to my GitHub repository. Here, you'll find a collection of projects and work related to my interests in Machine Learning and Web Development.
 
-##About Me
+## About Me
 I'm a passionate learner who's always eager to explore new technologies and create innovative solutions. Currently, I'm focused on enhancing my skills in the realm of Machine Learning while also delving into the world of Web Development.
 
 🌱 I’m currently learning and experimenting with Machine Learning techniques to solve real-world challenges.
@@ -10,7 +10,7 @@ I'm a passionate learner who's always eager to explore new technologies and crea
 Projects
 Here are some of the notable projects I've worked on:
 
-#GitHub Automated Analysis Project
+# GitHub Automated Analysis Project
 
 Description: In this project, I build a Python-based tool that takes input from a GitHub user’s URL and returns the most 
 technically complex and challenging repository from that user profile.
@@ -19,7 +19,7 @@ challenging one.
 Technologies: Python, Machine Learning Libraries
 Repository: https://github.com/Pratyushk2003/GIT-Analysis-Project-Mercor
 
-#Credit Card Fraud Detection Project
+# Credit Card Fraud Detection Project
 
 Description: I used the Card Transactions dataset to classify credit card transactions into fraudulent and genuine. Then
 fit it over the different models and plot ROC curves for them.
