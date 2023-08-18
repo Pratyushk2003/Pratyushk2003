@@ -47,3 +47,5 @@ Let's Connect
 If you're interested in my projects and want to stay updated with my journey, let's connect on social media:
 
 LinkedIn: https://www.linkedin.com/in/pratyush-khare-10b0a4238/
+
+![Pratyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pratyushk2003&count_private=true&theme=dracula)
