@@ -1,6 +1,7 @@
-# Pratyush Khare 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Pratyushk2003;Pratyush+Khare)](https://git.io/typing-svg)
+### Hi, My name is Pratyush Khare <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hello there! 👋 I'm Pratyush Khare, a Computer Science Engineering undergraduate student at IIIT Nagpur. Welcome to my GitHub repository. Here, you'll find a collection of projects and work related to my interests in Machine Learning and Web Development.
+I'm a Computer Science Engineering undergraduate student at IIIT Nagpur. Welcome to my GitHub repository. Here, you'll find a collection of projects and work related to my interests in Machine Learning and Web Development.
 
 # About Me
 I'm a passionate learner who's always eager to explore new technologies and create innovative solutions. Currently, I'm focused on enhancing my skills in the realm of Machine Learning while also delving into the world of Web Development.
